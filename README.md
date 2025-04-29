@@ -6,5 +6,5 @@
 - [] Comprar leite
 - [] Estudar para o exame
 - [] Limpar o quarto
-- [ ] Fazer exercício
-- [ ] Ler um livro
+- [] Fazer exercício
+- [] Ler um livro
